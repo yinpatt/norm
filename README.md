@@ -1,7 +1,5 @@
 #Normalization
 
-Build Status CRAN_Status_Badge
-
 Normalization is a function for R, which tries make normalization easy in data processing. 
 
 
