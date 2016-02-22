@@ -1,5 +1,5 @@
 ##Normalization
-Normalization is a function for R, which tries make normalization easy in data processing. 
+Normalization is a package for R, which tries to make normalization easy in data processing. 
 
 
 ##Installation
