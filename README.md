@@ -6,5 +6,5 @@ Normalization is a function for R, which tries make normalization easy in data p
 The development version from github:
 ```R
 install.packages("devtools")
-devtools::install_github("Normalization","yinpatt")
+devtools::install_github("norm","yinpatt")
 ```
