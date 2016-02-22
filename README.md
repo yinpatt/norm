@@ -1,8 +1,8 @@
-#Normalization
+##Normalization
 Normalization is a function for R, which tries make normalization easy in data processing. 
 
 
-#Installation
+##Installation
 The development version from github:
 ```R
 #install.packages("devtools")
